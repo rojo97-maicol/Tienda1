@@ -21,6 +21,7 @@
         <input class="control" type="text" name="carro" placeholder="Ingrese el Modelo del carro">
         <input class="control" type="text" name="dias" placeholder="Ingrese los dias de alquiler">
         <input class="control" type="text" name="Seguro" placeholder="Escriba si tiene seguro o no">
+        <input class="control" type="text" name="Seguro" placeholder="Escriba si tiene seguro o no oso">
         
         <input class="button"  type="submit" name="btn" value="Resultado">
         </form>    
